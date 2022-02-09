@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_tip">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="first_text_onboarding">Welcome! Thanks for choosing this app!</string>
+    <string name="second_text_onboarding">But the network\'s meteorologists say the weather pattern isn\'t likely to last. As the Arctic air continues to move, the West Coast should see milder temperatures again soon, if not already.</string>
+    <string name="instructions_button">Instructions</string>
+    <string name="logout">Logout</string>
+    <string name="shoe_list">shoe list</string>
+    <string name="text2_instructions">You can press Shoe List button to navigate to Shoe List</string>
+    <string name="company_text">Company</string>
+    <string name="shoe_name_text">Shoe Name</string>
+    <string name="shoe_size_text">Shoe Size</string>
+    <string name="description_text">Description</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">save</string>
+</resources>
